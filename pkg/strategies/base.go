@@ -23,7 +23,7 @@ import (
 	"fmt"
 	"os"
 
-	"buzzer/pkg/ebpf/ebpf"
+	"buzzer/pkg/ebpf"
 	fpb "buzzer/proto/ebpf_fuzzer_go_proto"
 )
 

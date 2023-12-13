@@ -17,7 +17,7 @@ package parseverifier
 import (
 	"fmt"
 
-	. "buzzer/pkg/ebpf/ebpf"
+	. "buzzer/pkg/ebpf"
 	"buzzer/pkg/rand"
 )
 

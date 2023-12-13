@@ -25,8 +25,8 @@ import "C"
 import (
 	"fmt"
 
-	"buzzer/pkg/ebpf/ebpf"
-	"buzzer/pkg/strategies/strategies"
+	"buzzer/pkg/ebpf"
+	"buzzer/pkg/strategies"
 	fpb "buzzer/proto/ebpf_fuzzer_go_proto"
 )
 

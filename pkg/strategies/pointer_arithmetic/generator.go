@@ -15,7 +15,7 @@
 package pointerarithmetic
 
 import (
-	. "buzzer/pkg/ebpf/ebpf"
+	. "buzzer/pkg/ebpf"
 	"buzzer/pkg/rand"
 )
 

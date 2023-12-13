@@ -18,11 +18,11 @@ package units
 import (
 	"fmt"
 
-	"buzzer/pkg/strategies/parse_verifier/parseverifier"
-	"buzzer/pkg/strategies/playground/playground"
-	"buzzer/pkg/strategies/pointer_arithmetic/pointerarithmetic"
-	"buzzer/pkg/strategies/stack_corruption/stackcorruption"
-	"buzzer/pkg/strategies/strategies"
+	"buzzer/pkg/strategies/parse_verifier"
+	"buzzer/pkg/strategies/playground"
+	"buzzer/pkg/strategies/pointer_arithmetic"
+	"buzzer/pkg/strategies/stack_corruption"
+	"buzzer/pkg/strategies"
 )
 
 // RunMode are the modes of operation for the server.

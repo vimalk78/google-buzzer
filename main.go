@@ -20,7 +20,7 @@ import (
 	"log"
 	"os/exec"
 
-	"buzzer/pkg/units/units"
+	"buzzer/pkg/units"
 )
 
 // Flags that the binary can accept.

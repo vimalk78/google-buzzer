@@ -19,7 +19,7 @@ package oracle
 import (
 	"errors"
 
-	"buzzer/pkg/ebpf/ebpf"
+	"buzzer/pkg/ebpf"
 )
 
 // RegisterState holds the best known state of a particular register

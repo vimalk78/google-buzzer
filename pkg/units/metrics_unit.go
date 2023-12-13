@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"buzzer/pkg/strategies/strategies"
+	"buzzer/pkg/strategies"
 	fpb "buzzer/proto/ebpf_fuzzer_go_proto"
 )
 

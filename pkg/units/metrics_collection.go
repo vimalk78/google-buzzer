@@ -15,7 +15,7 @@
 package units
 
 import (
-	"buzzer/pkg/strategies/strategies"
+	"buzzer/pkg/strategies"
 	"strings"
 	"sync"
 )

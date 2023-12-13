@@ -15,7 +15,7 @@
 package playground
 
 import (
-	. "buzzer/pkg/ebpf/ebpf"
+	. "buzzer/pkg/ebpf"
 )
 
 // Generator is responsible for constructing the ast for this strategy.
